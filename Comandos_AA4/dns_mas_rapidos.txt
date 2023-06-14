@@ -1,0 +1,35 @@
+
+Uso: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+          [-r count] [-s count] [[-j host-list] | [-k host-list]]
+          [-w timeout] [-R] [-S srcaddr] [-c compartment] [-p]
+          [-4] [-6] nombre_destino
+
+Opciones:
+ -t                  Hacer ping al host especificado hasta que se detenga.
+                     Para ver estad¡sticas y continuar, presione
+                     Ctrl-Interrumpir; para detener, presione Ctrl+C.
+ -a                  Resolver direcciones en nombres de host.
+ -n count            N£mero de solicitudes de eco para enviar.
+ -l size             Enviar tama¤o de b£fer.
+ -f                  Establecer marca No fragmentar en paquetes (solo IPv4).
+ -i TTL              Per¡odo de vida.
+ -v TOS              Tipo de servicio (solo IPv4. Esta opci¢n est  desusada y
+                     no tiene ning£n efecto sobre el campo de tipo de servicio
+                     del encabezado IP).
+ -r count            Registrar la ruta de saltos de cuenta (solo IPv4).
+ -s count            Marca de tiempo de saltos de cuenta (solo IPv4).
+ -j host-list        Ruta de origen no estricta para lista-host (solo IPv4).
+ -k host-list        Ruta de origen estricta para lista-host (solo IPv4).
+ -w timeout          Tiempo de espera en milisegundos para cada respuesta.
+ -R                  Usar encabezado de enrutamiento para probar tambi‚n
+                     la ruta inversa (solo IPv6).
+                     Por RFC 5095 el uso de este encabezado de enrutamiento ha
+                     quedado en desuso. Es posible que algunos sistemas anulen
+                     solicitudes de eco si usa este encabezado.
+    -S srcaddr       Direcci¢n de origen que se desea usar.
+    -c compartment   Enrutamiento del identificador del compartimiento.
+    -p               Hacer ping a la direcci¢n del proveedor de Virtualizaci¢n
+                     de red de Hyper-V.
+    -4               Forzar el uso de IPv4.
+    -6               Forzar el uso de IPv6.
+

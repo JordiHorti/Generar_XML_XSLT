@@ -1,0 +1,19 @@
+
+Traza a la direcci¢n dns9.quad9.net [9.9.9.9]
+sobre un m ximo de 30 saltos:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     2 ms     2 ms     2 ms  140.red-81-46-38.customer.static.ccgg.telefonica.net [81.46.38.140] 
+  3     2 ms     2 ms     2 ms  69.red-81-46-34.customer.static.ccgg.telefonica.net [81.46.34.69] 
+  4     *        *        *     Tiempo de espera agotado para esta solicitud.
+  5     *        *        *     Tiempo de espera agotado para esta solicitud.
+  6    13 ms    11 ms     7 ms  be8-400-grtbcnes1.net.telefonicaglobalsolutions.com [213.140.50.218] 
+  7    11 ms    11 ms    11 ms  176.52.248.191 
+  8    14 ms    11 ms    11 ms  176.52.248.172 
+  9    11 ms    11 ms     *     mad-b3-link.ip.twelve99.net [62.115.52.140] 
+ 10    10 ms    10 ms    10 ms  mad-b4-link.ip.twelve99.net [62.115.127.25] 
+ 11    11 ms    12 ms    11 ms  i3dnet-ic-378871.ip.twelve99-cust.net [62.115.168.85] 
+ 12    11 ms    11 ms    11 ms  hosted-by.i3d.net [213.179.217.5] 
+ 13    10 ms    11 ms    11 ms  dns9.quad9.net [9.9.9.9] 
+
+Traza completa.

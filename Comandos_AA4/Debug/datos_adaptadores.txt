@@ -1,0 +1,24 @@
+
+Haciendo ping a 80.58.61.254 con 32 bytes de datos:
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=59
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=59
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=59
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=59
+
+Estad¡sticas de ping para 80.58.61.254:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 2ms, M ximo = 2ms, Media = 2ms
+
+Traza a la direcci¢n 254.red-80-58-61.staticip.rima-tde.net [80.58.61.254]
+sobre un m ximo de 30 saltos:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     2 ms     2 ms     2 ms  140.red-81-46-38.customer.static.ccgg.telefonica.net [81.46.38.140] 
+  3     3 ms     3 ms     4 ms  69.red-81-46-34.customer.static.ccgg.telefonica.net [81.46.34.69] 
+  4     2 ms     2 ms     2 ms  54.red-81-46-34.customer.static.ccgg.telefonica.net [81.46.34.54] 
+  5     *        *        *     Tiempo de espera agotado para esta solicitud.
+  6     3 ms     3 ms     3 ms  254.red-80-58-61.staticip.rima-tde.net [80.58.61.254] 
+
+Traza completa.

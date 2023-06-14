@@ -1,0 +1,14 @@
+﻿  Desarrollo.c
+C:\Users\Jordi\Documents\COMANDOS\producto4(FP047)_HortiguelaEstrada_Jordi\Comandos_AA4\Desarrollo.c(41,7): warning C4101: 'numero': variable local sin referencia
+C:\Users\Jordi\Documents\COMANDOS\producto4(FP047)_HortiguelaEstrada_Jordi\Comandos_AA4\Desarrollo.c(200,43): warning C4047: '=': 'int' es distinto en los niveles de direccionamiento indirecto de 'char *'
+C:\Users\Jordi\Documents\COMANDOS\producto4(FP047)_HortiguelaEstrada_Jordi\Comandos_AA4\Desarrollo.c(241,77): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'int *'
+C:\Users\Jordi\Documents\COMANDOS\producto4(FP047)_HortiguelaEstrada_Jordi\Comandos_AA4\Desarrollo.c(241,72): warning C4024: 'generarXML': tipos distintos para el parámetro formal y el parámetro real 6
+C:\Users\Jordi\Documents\COMANDOS\producto4(FP047)_HortiguelaEstrada_Jordi\Comandos_AA4\Desarrollo.c(173,7): warning C4047: 'inicializando': 'int *' es distinto en los niveles de direccionamiento indirecto de 'int **'
+C:\Users\Jordi\Documents\COMANDOS\producto4(FP047)_HortiguelaEstrada_Jordi\Comandos_AA4\Desarrollo.c(174,7): warning C4047: 'inicializando': 'int *' es distinto en los niveles de direccionamiento indirecto de 'int **'
+C:\Users\Jordi\Documents\COMANDOS\producto4(FP047)_HortiguelaEstrada_Jordi\Comandos_AA4\Desarrollo.c(276,10): warning C4098: 'generarXML': función 'void' que devuelve un valor
+  main.c
+C:\Users\Jordi\Documents\COMANDOS\producto4(FP047)_HortiguelaEstrada_Jordi\Comandos_AA4\main.c(20,13): warning C4477: 'scanf_s' : la cadena de formato '%50s' requiere un argumento de tipo 'unsigned int', pero el argumento variádico 2 tiene el tipo 'size_t'
+C:\Users\Jordi\Documents\COMANDOS\producto4(FP047)_HortiguelaEstrada_Jordi\Comandos_AA4\main.c(20,13): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\Jordi\Documents\COMANDOS\producto4(FP047)_HortiguelaEstrada_Jordi\Comandos_AA4\main.c(13,10): warning C4101: 'ruta_archivo': variable local sin referencia
+  Generando código...
+  Comandos_AA3.vcxproj -> C:\Users\Jordi\Documents\COMANDOS\producto4(FP047)_HortiguelaEstrada_Jordi\Comandos_AA4\x64\Debug\Comandos_AA3.exe

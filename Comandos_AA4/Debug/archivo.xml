@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datos>
+    <IP>192.168.1.54</IP>
+    <Mascara>255.255.255.0</Mascara>
+    <PuertaDeEnlace>192.168.1.1</PuertaDeEnlace>
+    <DNSPrimario>80.58.61.254</DNSPrimario>
+    <Media>2 ms</Media>
+    <Saltos>
+          <NumeroDeSaltos>6</NumeroDeSaltos>
+               <ip>192.168.1.1</ip>
+               <ip>[81.46.38.140]</ip>
+               <ip>[81.46.34.69]</ip>
+               <ip>[81.46.34.54]</ip>
+               <ip>[80.58.61.254]</ip>
+    </Saltos>
+</datos>
